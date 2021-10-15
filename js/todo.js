@@ -1,5 +1,3 @@
-console.log('hello')
-
 //Caching the DOM elemnet.
 const todoInput =   document.querySelector('.todo-input');
 const todoBtn = document.querySelector('.todo-button');
